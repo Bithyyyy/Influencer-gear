@@ -45,7 +45,7 @@
     
 }
 .camera{
-    background: url("../images/Circle design.svg");
+    background: url("./images/Circle design.svg");
     position: absolute;
     width: 475px;
     height: 475px;
